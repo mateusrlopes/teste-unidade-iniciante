@@ -1,4 +1,4 @@
-# 🧪 Teste de Unidade - Projeto para Iniciantes
+# 🧪 Teste de Unidade - Projeto teste inicial 1
 
 Este projeto foi criado para aprender o básico de **testes de unidade** usando **Python** e o módulo `unittest`.
 
@@ -30,8 +30,3 @@ OK
 - Uso de GitHub para versionamento e portfólio
 
 ---
-
-🧭 Compartilhe no LinkedIn:
-> Hoje finalizei meu primeiro teste de unidade! Usei Python e o módulo `unittest` para validar funções simples.  
-> Repositório: [coloque o link do GitHub]  
-> #QA #Tester #Python #Desenvolvimento #TestesDeUnidade #GitHub #AprendizadoContínuo
